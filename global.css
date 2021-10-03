@@ -32,13 +32,13 @@ Global Styles
   padding: 0;
   box-sizing: border-box;
 }
-.section-menu{
+/* .section-menu{
   background: url(/assets/img/decore-6.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
-}
+} */
 .section-center{
 max-width: var(--max-width);
   width: 100%;
