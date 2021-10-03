@@ -4,7 +4,7 @@ const menu = [
     title: 'Thiebou Dieune Penda Mbaye',
     category: 'lunch',
     price: 25,
-    img: './image/thieboudieune.jpg',
+    img: '/assets/js/image/thieboudieune.jpg',
     desc: `Tieboudiene bou Khonk (Riz au Poisson Rouge) - Les Recettes de Famar `,
   },
   {
@@ -12,7 +12,7 @@ const menu = [
     title: 'yaasa saf saf sap pulet',
     category: 'lunch',
     price: 20,
-    img: './image/yassa.jpg',
+    img: '/assets/js/image/yassa.jpg',
     desc: `Yassa guinaar - yassa au poulet - Senecuisine - cuisine sénégalaise `,
   },
   {
@@ -20,7 +20,7 @@ const menu = [
     title: "Méchoui d'agneau",
     category: 'dinner',
     price: 40,
-    img: './image/minchwi.jpg',
+    img: '/assets/js/image/minchwi.jpg',
     desc: `principal : Méchoui d'agneau accompagné d'attiéké - Senecuisine - cuisine sénégalaise.`,
   },
   {
@@ -28,7 +28,7 @@ const menu = [
     title: 'Fatya yapp',
     category: 'breakfast',
     price: 10,
-    img: './image/fataya.jpg',
+    img: '/assets/js/image/fataya.jpg',
     desc: `Empanadas de Carne,fataya `,
   },
   {
@@ -36,7 +36,7 @@ const menu = [
     title: 'c bon',
     category: 'lunch',
     price: 12,
-    img: './image/diola.jpg',
+    img: '/assets/js/image/diola.jpg',
     desc: `Thiébou diola (poisson braisé et riz) `,
   },
   {
@@ -44,7 +44,7 @@ const menu = [
     title: 'Couscous au poulet',
     category: 'dinner',
     price: 16,
-    img: './image/couscous.jpg',
+    img: '/assets/js/image/couscous.jpg',
     desc: `Pour la sauce, il faut : 1 poulet jaune 200 g de foie 50 g de beurre 1 kg d’oignons 1 cuillère à soupe de purée d’ail sel, poivre, gingembre, romarin, moutarde, piment en poudre, cube o…
 `,
   },
@@ -53,7 +53,7 @@ const menu = [
     title: 'Domoda poisson',
     category: 'lunch',
     price: 10,
-    img: './image/domoda.jpg',
+    img: '/assets/js/image/domoda.jpg',
     desc: `1 grosse dorade 2 carottes Patate douce Choux (facultatif) 250 g de concentré de tomates 1 cac de nététou en poudre 1 cube or 1 oignon découpé 1 cas de farine 3 gousses d’ail hachées Sel, poi…
  `,
   },
@@ -62,7 +62,7 @@ const menu = [
     title: 'Dibi haoussa',
     category: 'dinner',
     price: 27,
-    img: './image/dibi.jpg',
+    img: '/assets/js/image/dibi.jpg',
     desc: `Dibi haoussa, suya (Brochettes de bœuf) `,
   },
   {
@@ -70,7 +70,7 @@ const menu = [
     title: 'Ndambe',
     category: 'breakfast',
     price: 5,
-    img: './image/ndambe.jpg',
+    img: '/assets/js/image/ndambe.jpg',
     desc: `
 TasteAtlas
 Ndambé | Traditional Stew From Senegal.`,
@@ -80,7 +80,7 @@ Ndambé | Traditional Stew From Senegal.`,
     title: 'Omelete',
     category: 'breakfast',
     price: 3,
-    img: './image/omelete.jpg',
+    img: '/assets/js/image/omelete.jpg',
     desc: `
 Punchfork
 Mediterranean Omelet`,
@@ -90,7 +90,7 @@ Mediterranean Omelet`,
     title: 'firir',
     category: 'breakfast',
     price: 14,
-    img: './image/firir.jpg',
+    img: '/assets/js/image/firir.jpg',
     desc: `
 Firire | TOP 10 Traditional Senegalese Foods you MUST try | Senegal | Haitian food recipes, Food, Fried fish
 Visit
@@ -101,7 +101,7 @@ Visit
     title: 'Accara',
     category: 'breakfast',
     price: 8,
-    img: './image/omelete.jpg',
+    img: '/assets/js/image/omelete.jpg',
     desc: `
 Accara: Black-eyed Pea Fritters from West Africa. I am so making this as soon as possible and serve it with my own special piment - Oh la la !!!
 `,
