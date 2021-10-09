@@ -2,40 +2,40 @@ const menu = [
   {
     id: 1,
     title: 'Thiebou Dieune Penda Mbaye',
-    category: 'lunch',
-    price: 25,
+    category: 'déjeuner',
+    price: 1000,
     img: '/assets/js/image/thieboudieune.jpg',
     desc: `Tieboudiene bou Khonk (Riz au Poisson Rouge) - Les Recettes de Famar `,
   },
   {
     id: 2,
     title: 'yaasa saf saf sap pulet',
-    category: 'lunch',
-    price: 20,
+    category: 'déjeuner',
+    price: 2000,
     img: '/assets/js/image/yassa.jpg',
     desc: `Yassa guinaar - yassa au poulet - Senecuisine - cuisine sénégalaise `,
   },
   {
     id: 3,
     title: "Méchoui d'agneau",
-    category: 'dinner',
-    price: 40,
+    category: 'déjeuner',
+    price: 4000,
     img: '/assets/js/image/minchwi.jpg',
     desc: `principal : Méchoui d'agneau accompagné d'attiéké - Senecuisine - cuisine sénégalaise.`,
   },
   {
     id: 4,
     title: 'Fatya yapp',
-    category: 'breakfast',
-    price: 10,
+    category: 'petit-déjeuner',
+    price: 1000,
     img: '/assets/js/image/fataya.jpg',
     desc: `Empanadas de Carne,fataya `,
   },
   {
     id: 5,
     title: 'c bon',
-    category: 'lunch',
-    price: 12,
+    category: 'déjeuner',
+    price: 1500,
     img: '/assets/js/image/diola.jpg',
     desc: `Thiébou diola (poisson braisé et riz) `,
   },
@@ -43,33 +43,33 @@ const menu = [
     id: 6,
     title: 'Couscous au poulet',
     category: 'dinner',
-    price: 16,
+    price: 1600,
     img: '/assets/js/image/couscous.jpg',
-    desc: `Pour la sauce, il faut : 1 poulet jaune 200 g de foie 50 g de beurre 1 kg d’oignons 1 cuillère à soupe de purée d’ail sel, poivre, gingembre, romarin, moutarde, piment en poudre, cube o…
+    desc: `Pour la sauce, il faut : 1 poulet jaune 200 g de foie 50 g de beurre 1 kg d’oignons 1 cuillère à soupe de purée d’ail sel, poivre, gingembre, 
 `,
   },
   {
     id: 7,
     title: 'Domoda poisson',
-    category: 'lunch',
-    price: 10,
+    category: 'déjeuner',
+    price: 1000,
     img: '/assets/js/image/domoda.jpg',
-    desc: `1 grosse dorade 2 carottes Patate douce Choux (facultatif) 250 g de concentré de tomates 1 cac de nététou en poudre 1 cube or 1 oignon découpé 1 cas de farine 3 gousses d’ail hachées Sel, poi…
+    desc: `1 grosse dorade 2 carottes Patate douce Choux (facultatif) 250 g de 
  `,
   },
   {
     id: 8,
     title: 'Dibi haoussa',
     category: 'dinner',
-    price: 27,
+    price: 2700,
     img: '/assets/js/image/dibi.jpg',
     desc: `Dibi haoussa, suya (Brochettes de bœuf) `,
   },
   {
     id: 9,
     title: 'Ndambe',
-    category: 'breakfast',
-    price: 5,
+    category: 'petit-déjeuner',
+    price: 500,
     img: '/assets/js/image/ndambe.jpg',
     desc: `
 TasteAtlas
@@ -78,9 +78,9 @@ Ndambé | Traditional Stew From Senegal.`,
   {
     id: 10,
     title: 'Omelete',
-    category: 'breakfast',
-    price: 3,
-    img: '/assets/js/image/omelete.jpg',
+    category: 'petit-déjeuner',
+    price: 300,
+    img: '/assets/js/image/omellete.jpg',
     desc: `
 Punchfork
 Mediterranean Omelet`,
@@ -88,8 +88,8 @@ Mediterranean Omelet`,
   {
     id: 11,
     title: 'firir',
-    category: 'breakfast',
-    price: 14,
+    category: 'dinner',
+    price: 1400,
     img: '/assets/js/image/firir.jpg',
     desc: `
 Firire | TOP 10 Traditional Senegalese Foods you MUST try | Senegal | Haitian food recipes, Food, Fried fish
@@ -99,11 +99,11 @@ Visit
   {
     id: 12,
     title: 'Accara',
-    category: 'breakfast',
-    price: 8,
-    img: '/assets/js/image/omelete.jpg',
+    category: 'petit-déjeuner',
+    price: 800,
+    img: '/assets/js/image/accara.jpg',
     desc: `
-Accara: Black-eyed Pea Fritters from West Africa. I am so making this as soon as possible and serve it with my own special piment - Oh la la !!!
+Accara: Black-eyed Pea Fritters from West Africa. Oh la la !!!
 `,
   },
 ]
